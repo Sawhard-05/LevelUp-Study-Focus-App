@@ -19,10 +19,12 @@ The **Level Up Focus App** is a productivity tool designed to help users maintai
 ---
 
 ## Features
-- **Simple and clean user interface** using Tkinter.
-- **Audio alerts** to notify users of progress.
-- **Reset option** to restart focus sessions.
-- **Visual time tracker** displaying hours, minutes, and seconds.
+- **Dynamic Level Progression**: Guides users through five unique mental states, encouraging focus and mindfulness.
+- **Custom Audio Alerts**: Each mental state is paired with a distinct sound, providing auditory cues for progress.
+- **Minimalist Design**: A clean, distraction-free interface designed using Tkinter for an immersive focus experience.
+- **Real-Time Timer**: Displays hours, minutes, and seconds to keep track of your focus sessions.
+- **Interactive Controls**: Includes a "Start Focus Session" button to begin and a "Reset Timer" button to restart effortlessly.
+
 
 ---
 
